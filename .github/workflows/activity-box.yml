@@ -15,4 +15,4 @@ jobs:
           GH_PAT: ${{ secrets.GH_PAT }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_USERNAME: ardakazanci
-          GIST_ID: cf22ed396689cfdfd3a1aa9099655d74
+          GIST_ID: 3c4c44cf069dae2ac48c94a2b36711dc
